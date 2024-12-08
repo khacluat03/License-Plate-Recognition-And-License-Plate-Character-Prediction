@@ -59,3 +59,10 @@ Details about the models trained from data related to character and license plat
     - Python >= 3.8
     - TensorFlow >= 2.5
 - How to load the model:
+```bash
+from tensorflow.keras.models import load_model
+
+char_model = load_model('char_model_01.h5')
+license_plate_model = load_model('license_plate_model.h5')
+license_plate_model_2 = load_model('license_plate_model_2.h5')
+```
