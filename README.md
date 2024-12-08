@@ -11,4 +11,4 @@ Phát hiện biển số xe và dự đoán kí tự trên biển số xe
     - Hãy tham khảo các notebook Train_Model... để đào tạo mô hình với dữ liệu của bạn.
 
 ### Các bước chính được dùng trong bài toán này:
-<p align="center"><img src="![alt text](image.png)"></p>
+<p align="center"><img src="..\\ANPR\\image.png"></p>
