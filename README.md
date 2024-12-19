@@ -15,6 +15,7 @@ Phát hiện biển số xe và dự đoán kí tự trên biển số xe
 ### Các bước chính được dùng trong bài toán này:
 
 <p align="center"><img src="https://raw.githubusercontent.com/khacluat03/License-Plate-Recognition-And-License-Plate-Character-Prediction/refs/heads/master/image.png" width="300"></p>
+
 ---
 # Mô tả ý tưởng các bước:
 
