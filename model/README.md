@@ -1,6 +1,8 @@
 <h2 align="center">MÔ TẢ</h2>
+
 ---
 > Link models: [Link](https://1drv.ms/f/c/131c537c95a10340/Epe07KnXpIZNtjTJJGASA3oBbwxY-m2oajqsKaRWh7bSOg?e=YzwE7I)
+
 Thông tin chi tiết về các mô hình được đào tạo từ dữ liệu liên quan đến dự đoán ký tự và biển số xe. Các mô hình được lưu trữ dưới các tệp .h5 và được thiết kế để phục vụ các bài toán nhận diện ký tự và biển số xe.
 
 1. `license_plate_model.h5`
